@@ -1,2 +1,2 @@
 # Notepad
-it is general notepad app using HTML.CSS,JavaScript
+it is general notepad project using HTML.CSS,JavaScript
